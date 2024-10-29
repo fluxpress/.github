@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[❓ 什么是 FluxPress](https://fluxpress.github.io/guide/what-is-fluxpress)
+
+[🚀 快速开始](https://fluxpress.github.io/guide/getting-started)
+
+
 <!--
 
 **Here are some ideas to get you started:**
